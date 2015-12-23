@@ -1,0 +1,84 @@
+{
+  "region":[
+    {
+      "name":"Centeral Development Region",
+      "zone":[{
+        "name":"Bagmati",
+        "district":["Kathmandu", "Bhaktapur", "Lalitput","Kavrepalanchowk","Sindhupalanchowk","Dhading","Nuwakot","Russuwa"]
+      },
+      {
+        "name":"Narayani",
+        "district":["Rautahat", "Bara", "Parsa","Makawanpur","Chitwan"]
+      },
+      {
+        "name":"Janakpur",
+        "district":["Dhanusha", "Sarlahi", "Mahottari","Sindhuli","Ramechap","Dolkha"]
+      }
+    ]
+  },
+  {
+    "name":"Western Development Region",
+    "zone":[
+      {
+        "name":"Gandaki",
+        "district":["Tanahun", "Gorkha", "Shangja","Kaski","Lamjung","Manang"]
+      },
+      {
+        "name":"Lumbini",
+        "district":["Nawalparasi", "Rupandhei", "Kapilvastu","Palpa","Gulmi","Argakanchhi"]
+      },
+      {
+        "name":"Dhaulagiri",
+        "district":["Parbat", "Baglung", "Myagdi","Mustand"]
+      }
+    ]
+  },
+  {
+    "name":"Mid Western Development Region",
+    "zone":[
+      {
+        "name":"Rapti",
+        "district":["Dang", "Rolpa", "Salyan","Pyuthan","Rukum"]
+      },
+      {
+        "name":"Bheri",
+        "district":["Banke", "Bardiya", "Surkhet","Dailekh","Jajarkot"]
+      },
+      {
+        "name":"Karnali",
+        "district":["Humla", "Jumla", "Mugu","Dolpa","Kalikot"]
+      }
+    ]
+  },
+  {
+    "name":"Far Western Development Region",
+    "zone":[
+      {
+        "name":"Seti",
+        "district":["Kailali", "Doti", "Aachham","Bajhang","Bajura"]
+      },
+      {
+        "name":"Mahakali",
+        "district":["Kanchanur", "Dadeldhura", "Baitadi","Darchula"]
+      }
+    ]
+  },
+  {
+    "name":"Eastern Development Region",
+    "zone":[
+      {
+        "name":"Mechi",
+        "district":["Jhapa", "Ilam", "Panchthar","Taplejung"]
+      },
+      {
+        "name":"Koshi",
+        "district":["Morang", "Sunsari", "Dhankuta", "Terathum","Snkhuwashaba","Bhojpur"]
+      },
+      {
+        "name":"Sagarmatha",
+        "district":["Saptari", "Siraha", "Udayapur","Khotang","Okhaldunga","Solukhumbu"]
+      }
+    ]
+  }
+]
+}
